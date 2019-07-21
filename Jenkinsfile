@@ -21,9 +21,5 @@ stage("Deploy to staging") {
      }
 }
      }
-  post {
-     always {
-          sh "docker stop projet_php3"
-     }
 }
 }
