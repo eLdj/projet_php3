@@ -20,12 +20,6 @@ stage("Deploy to staging") {
           sh "docker run -d --rm -p 3200:3200 --name projet_php3 eldji22/projet_php3"
      }
 }
-stage("Acceptance test") {
-     steps {
-          sleep 30
-          sh "./acceptance_test.sh"
-     }
-}
      }
   post {
      always {
