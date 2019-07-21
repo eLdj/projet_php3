@@ -22,4 +22,3 @@ stage("Deploy to staging") {
 }
      }
 }
-}
