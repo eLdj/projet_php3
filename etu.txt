@@ -1,0 +1,13 @@
+Laye;Aliou;2002-03-25;765241308;laye@test.fr;AP_1;Lamine NDIAYE;inscrit;
+DIOP;Salif;1996-09-30;768542136;salif@test.sn;AP_2;Maky SALL;exclu;
+Leyty;DIOUF;1997-08-21;776985213;lyt@test.sn;AP_3;Youssou DIOP;exclu;
+NDIAYE;Khadim;2000-04-10;701235898;kha@test.com;AP_4;Daouda SECK;inscrit;
+NDIAYE;Malick;2003-05-13;771235778;mal@test.com;AP_5;Daouda SECK;inscrit;
+SALL;Elimane;1997-25-08;765698741;eli@test.fr;AP_6;Youssou DIOP;inscrit;
+WADE;Laye;1998-06-11;776985213;lwd@test.fr;AP_7;Lamine NDIAYE;exclu;
+SENE;Moussa;2004-05-17;785231654;moss@test.com;AP_8;Maky SALL;inscrit;
+DRAME;Sidy;2002-07-24;765896542;sidy@test.fr;AP_9;Maky SALL;inscrit;
+Seck;Awa;1999-04-04;766522139;awas@test.fr;AP_10;Lamine NDIAYE;exclu;
+LY;Ouli;1994-11-06;785421369;ouly@test.sn;AP_11;Daouda SECK;inscrit;
+LOUME;Yacine;1997-12-16;787548956;yass@test.ma;AP_12;Youssou DIOP;inscrit;
+THIOUNE;Xadim;2005-03-15;775693256;xtn@test.fr;AP_13;Lamine NDIAYE;exclu;
