@@ -34,7 +34,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="listetu.php">Les apprenants</a>
+          <a class="nav-link" href="index.php">Les apprenants</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#"></a>
