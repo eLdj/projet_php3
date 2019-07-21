@@ -17,12 +17,12 @@ sh "docker push eldji22/projet_php3"
 stage("Deploy to staging") {
      steps {
  
-          sh "docker run -d --rm -p 8765:8080 --name projet_php3 eldji22/projet_php3"
+          sh "docker run -d --rm -p 3200:3200 --name projet_php3 eldji22/projet_php3"
      }
 }
 stage("Acceptance test") {
      steps {
-          sleep 60
+          sleep 30
           sh "./acceptance_test.sh"
      }
 }
