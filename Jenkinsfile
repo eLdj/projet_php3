@@ -21,4 +21,9 @@ stage("Deploy to staging") {
      }
 }
      }
+  post {
+     always {
+          sh "docker stop eldji22/projet_php3"
+     }
+}
 }
