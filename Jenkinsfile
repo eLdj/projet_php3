@@ -5,7 +5,7 @@ pipeline {
 stage("Docker build") {
      steps {
       
-          sh "docker build -t eldji22/projet_php3 ."
+          sh "docker-compose up -d"
      }
 }
 stage("Docker push") {
